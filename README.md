@@ -22,5 +22,11 @@ R 프로그래밍을 활용하여 지난 30년간의 뉴스 데이터를 분석�
 * **성과**: 해당 과목 최종 성적 **A+ 취득**
 
 ## 📊 시각화 자료
-![TF-IDF 분석 결과](https://your-image-link-here.com) 
-*(여기에 tf-idf ggplot.png 이미지를 업로드 후 링크를 넣으세요)*
+![TF-IDF 분석 결과]
+<img width="1888" height="936" alt="단순 wordcloud" src="https://github.com/user-attachments/assets/83372095-540d-45c1-90fa-a6fca9b924f6" />
+<img width="1893" height="937" alt="단순 ggplot" src="https://github.com/user-attachments/assets/7800d14d-9222-4b9d-98a2-f42e92dd931e" />
+<img width="1892" height="931" alt="감성 워드클라우드" src="https://github.com/user-attachments/assets/505f2a01-b32c-46ae-b3e6-b087dd560959" />
+<img width="1891" height="937" alt="감성 ggplot" src="https://github.com/user-attachments/assets/3f9e7eaf-03a1-4a9b-9820-c6e7bf023999" />
+<img width="1891" height="937" alt="tf-idf ggplot" src="https://github.com/user-attachments/assets/eba904e1-5ceb-489d-9f4a-9f9e463a2371" />
+<img width="753" height="372" alt="image" src="https://github.com/user-attachments/assets/f85dd4e7-3480-4461-9841-3f2fb02ef49f" />
+<img width="753" height="371" alt="image" src="https://github.com/user-attachments/assets/853a8042-ed7a-4fd4-be87-6e99b4d7bad2" />
