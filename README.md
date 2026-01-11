@@ -1,4 +1,4 @@
-# 📊 1997-2024 저출산·고령화 뉴스 빅데이터 담론 변화 분석
+# 📊 1997-2024 저출산·고령화 뉴스 빅데이터 담론 변화 분석https://github.com/ts6nqswnr8-sudo/RProject/blob/main/README.md
 
 R 프로그래밍을 활용하여 지난 30년간의 뉴스 데이터를 분석하고 사회적 인식의 변화를 추적한 프로젝트입니다.
 
@@ -22,7 +22,7 @@ R 프로그래밍을 활용하여 지난 30년간의 뉴스 데이터를 분석�
 * **성과**: 해당 과목 최종 성적 **A+ 취득**
 
 ## 📊 시각화 자료
-![TF-IDF 분석 결과]
+[TF-IDF 분석 결과]
 <img width="1888" height="936" alt="단순 wordcloud" src="https://github.com/user-attachments/assets/83372095-540d-45c1-90fa-a6fca9b924f6" />
 <img width="1893" height="937" alt="단순 ggplot" src="https://github.com/user-attachments/assets/7800d14d-9222-4b9d-98a2-f42e92dd931e" />
 <img width="1892" height="931" alt="감성 워드클라우드" src="https://github.com/user-attachments/assets/505f2a01-b32c-46ae-b3e6-b087dd560959" />
